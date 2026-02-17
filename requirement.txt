@@ -1,3 +1,5 @@
 streamlit
 nbformat
 nbconvert
+pandas
+matplotlib
